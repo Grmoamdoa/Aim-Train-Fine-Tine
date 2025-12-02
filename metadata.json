@@ -1,0 +1,5 @@
+{
+  "name": "Precision Aim Lab",
+  "description": "A 3D aim trainer that analyzes miss patterns to recommend optimal DPI and sensitivity settings using statistical analysis.",
+  "requestFramePermissions": []
+}
